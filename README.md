@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my Github Profile 👋
 <a href="https://app.daily.dev/piusmwilson"><img src="https://github.com/piusmwilson/piusmwilson/blob/main/devcard.svg" width="400" alt="Pius Muhumuza's Dev Card"/></a>
 
 
