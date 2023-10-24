@@ -11,8 +11,8 @@ I am an IT Engineer, deeply enthusiastic about Technology-Related business solut
 * [LinkedIn](https://www.linkedin.com/in/piusnmuhumuza/)
 * [GitHub](https://github.com/piusnmuhumuza)
 * [Twitter](https://twitter.com/piusnmuhumuza)
-* [medium](https://piusnmuhumuza.medium.com/)
-* [hashnode](https://piusnmuhumuza.hashnode.dev/)
+* [Medium](https://piusnmuhumuza.medium.com/)
+* [Hashnode](https://piusnmuhumuza.hashnode.dev/)
 
 ## Skills
 
