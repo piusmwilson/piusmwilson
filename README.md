@@ -12,7 +12,7 @@ I am an IT Engineer, deeply enthusiastic about Technology-Related business solut
 * [GitHub](https://github.com/piusnmuhumuza)
 * [Twitter](https://twitter.com/piusnmuhumuza)
 * [medium](https://piusnmuhumuza.medium.com/)
-* [hashnode]([https://piusnmuhumuza.medium.com/](https://piusnmuhumuza.hashnode.dev/)
+* [hashnode](https://piusnmuhumuza.hashnode.dev/)
 
 ## Skills
 
