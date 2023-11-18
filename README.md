@@ -59,14 +59,6 @@ Discover how easy it is to stay updated with [daily.dev](https://dly.to/wiAJywWT
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
-## Projects
-* 
-## Awards and Honors
-* 
-## Licenses & certifications
-* 
-## Volunteering
-* 
 
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
