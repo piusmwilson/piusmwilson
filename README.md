@@ -1,9 +1,8 @@
-### Hi there! Welcome to my Profile 👋
-
 # Pius Muhumaza | IT Engineer
 <a href="https://app.daily.dev/piusmwilson"><img src="https://github.com/piusmwilson/piusmwilson/blob/main/devcard.svg" width="400" alt="Pius Muhumuza's Dev Card"/></a>
-## About
 
+## About
+Hi there! Welcome to my Profile 👋
 I am an IT Engineer, deeply enthusiastic about Technology-Related business solutions, Community Outreach, Storytelling, People, Books, Professional Growth, Productive Conversations, Management and administration in Sports Business.
 
 ## Contact Information
