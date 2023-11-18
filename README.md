@@ -1,9 +1,14 @@
 # Pius Muhumaza | IT Engineer
-<a href="https://app.daily.dev/piusmwilson"><img src="https://github.com/piusmwilson/piusmwilson/blob/main/devcard.svg" width="400" alt="Pius Muhumuza's Dev Card"/></a>
+
 
 ## About
 Hi there! Welcome to my Profile 👋
 I am an IT Engineer, deeply enthusiastic about Technology-Related business solutions, Community Outreach, Storytelling, People, Books, Professional Growth, Productive Conversations, Management and administration in Sports Business.
+
+## DEV CARD | Daily Dev.
+[<a href="https://app.daily.dev/piusmwilson"><img src="https://github.com/piusmwilson/piusmwilson/blob/main/devcard.svg" width="400" alt="Pius Muhumuza's Dev Card"/></a>](https://api.daily.dev/devcards/d31a554adbe747a4b310dbd7f6c6e19d.png?r=qmz)
+
+Discover how easy it is to stay updated with [daily.dev](https://dly.to/wiAJywWTYWj)
 
 ## Contact Information
 
