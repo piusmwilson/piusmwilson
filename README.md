@@ -1,8 +1,8 @@
+![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
 # Pius Muhumaza | IT Engineer
-
+Hi there! Welcome to my Profile 👋
 
 ## About
-Hi there! Welcome to my Profile 👋
 I am an IT Engineer, deeply enthusiastic about Technology-Related business solutions, Community Outreach, Storytelling, People, Books, Professional Growth, Productive Conversations, Management and administration in Sports Business.
 
 ## DEV CARD | Daily Dev.
