@@ -35,7 +35,7 @@ Discover how easy it is to stay updated with [daily.dev](https://dly.to/wiAJywWT
 
 #### Software Implementation Project Consultant
 
-* hSenid Business Solutions | Contract- (Aug 2021 - Present | 2 yrs 3 months)
+* hSenid Business Solutions | Contract- (Aug 2021 - February 2024)
 
 #### Web & Mobile Developer
 
