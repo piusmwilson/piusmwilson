@@ -1,5 +1,5 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
-# Pius Muhumaza | IT Engineer
+# Pius Muhumuza
 Hi there! Welcome to my Profile 👋
 
 ## About
