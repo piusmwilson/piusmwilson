@@ -3,7 +3,7 @@
 Hi there! Welcome to my Profile 👋
 
 ## About
-I am a Business | IT Engineer, deeply enthusiastic about Technology-Related business solutions, Community Outreach, Storytelling, People, Books, Professional Growth, Productive Conversations, Management and administration in Sports Business.
+I am an IT Engineer, deeply enthusiastic about Technology-Related business solutions, Community Outreach, Storytelling, People, Books, Professional Growth, Productive Conversations, Management and administration in Sports Business.
 
 ## DEV CARD | Daily Dev.
 [<a href="https://app.daily.dev/piusnmuhumuza"><img src="https://api.daily.dev/devcards/d31a554adbe747a4b310dbd7f6c6e19d.png?r=nze" width="400" alt="Pɨuṩ Mṳhumuzå's Dev Card"/></a>](https://api.daily.dev/devcards/d31a554adbe747a4b310dbd7f6c6e19d.png?r=qmz)
