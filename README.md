@@ -14,11 +14,10 @@ Discover how easy it is to stay updated with [daily.dev](https://dly.to/wiAJywWT
 
 ## Contact Information
 
-* [LinkedIn](https://www.linkedin.com/in/piusnmuhumuza/)
-* [GitHub](https://github.com/piusnmuhumuza)
-* [Twitter](https://twitter.com/piusnmuhumuza)
-* [Medium](https://piusnmuhumuza.medium.com/)
-* [Hashnode](https://piusnmuhumuza.hashnode.dev/)
+* [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
+* [GitHub](https://github.com/piusmwilson)
+* [Twitter](https://twitter.com/piusmwilson)
+* [Medium](https://piusmwilson.medium.com/)
 
 ## Skills
 
