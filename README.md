@@ -1,5 +1,5 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
-# Pius Muhumuza
+# Muhumuza Pius
 Hi there! Welcome to my Profile 👋
 
 ## About
