@@ -1,18 +1,15 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
 # Muhumuza Pius
-Hi there! Welcome to my Profile 👋
+
+An IT Engineer with Interests in Business Information Technology, Software Project Management, ITSM, Python, R, Databases, and Data Management, for Business Process Improvement & solutions delivery.
+* Currently learning AI/ML for Data Science, cybersecurity and exploring Software Quality Assurance, Rust & Golang.
 
 ## About
 I am an Information Technology Engineer, with a sound and adaptive technical background built on solid work ethics and personal discipline.
 
 I’m purpose driven and deeply enthusiastic about technology-related business solutions, community outreach, professional growth, storytelling, people, books, productive conversations, as well as Sports Management and Administration Initiatives among other things.
 
-## DEV CARD | Daily Dev.
-[<a href="https://app.daily.dev/piusnmuhumuza"><img src="https://api.daily.dev/devcards/d31a554adbe747a4b310dbd7f6c6e19d.png?r=nze" width="400" alt="Pɨuṩ Mṳhumuzå's Dev Card"/></a>](https://api.daily.dev/devcards/d31a554adbe747a4b310dbd7f6c6e19d.png?r=qmz)
 
-
-
-Discover how easy it is to stay updated with [daily.dev](https://dly.to/wiAJywWTYWj)
 
 ## Contact Information
 
