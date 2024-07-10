@@ -1,10 +1,10 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
-# Muhumuza Pius
+# MUHUMUZA PIUS
 
 An IT Engineer with Interests in Business Information Technology, Software Project Management, ITSM, Python, R, Databases, and Data Management, for Business Process Improvement & solutions delivery.
 * Currently researching & learning Intellectual Property Management concepts, AI/ML for Data Science, Cybersecurity and exploring Software Quality Assurance, Rust & Golang.
 
-## About
+## ABOUT
 
 An I’m an lnformation Technology (IT) Engineer with 8+ years of business Information Technology experience and a sound, adaptive technical background built on solid work ethics and personal discipline. 
 
@@ -13,33 +13,22 @@ I’m big on Technology-Related Business Solutions, Process Improvements, Storyt
 As a purpose driven problem solver, attempting to transition into Software Engineering with a foundation focus in Python, I’m excited about opportunities within software Development, Software Quality Assurance, Project Management, Product Management and Business Analysis centred roles among other things as I look forward to explore Rust & Golang in future.
 
 
-## Contact Information
+## CONTACT INFORMATION
 
 * [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 * [GitHub](https://github.com/piusmwilson)
 * [Twitter](https://twitter.com/piusmwilson)
 * [Medium](https://piusmwilson.medium.com/)
 
-## Skills
-
-* Business Analysis & Process Management
-* Project Management
-* IT Service Management & Customer Engineering
-* Branding, Digital Marketing & Sports Management.
-* SQL (MySQL, MsSQL) 
-* Intellectual Property Management
-* Prompt Engineering, Technical Writing, & Storying.
-
-
 ## SKILLS SUMMARY
 
 * **Soft Skills:** _Problem Solving, Time management, Communication, Rapport building, Stakeholder management, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making._
 * **Technical Skills:** _IT Service Management, Business Process Improvement, Databases, Systems Administration, Software Project Management, Version Control, Technical Writing, Graphics Design, Digital Marketing, Data Management & Analysis, Photography, Quality Assurance, Agile, Scrum, HR Transformation, & Systems Analysis._
 * **Languages:** _HTML, CSS, SQL, Python (Basic), R (Basic), PowerBI (Basic), Tableau (Basic)._
-* **Tools & Platforms:* _MySQL, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git, VSCode, Android Studio, Trello, Jira, WordPress, GitHub, PyCharm & Juypter Notebook (Basic)._
+* **Tools & Platforms:** _MySQL, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git, VSCode, Android Studio, Trello, Jira, WordPress, GitHub, PyCharm & Juypter Notebook (Basic)._
 
 
-## Experience
+## EXPERIENCES
 
 #### Software Implementation Project Consultant
 
@@ -65,7 +54,7 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 
 * BAWN Group | Full-time - (Jan 2015 - Feb 2016) | 1 yr 2 months
 
-## Education
+## EDUCATION BACKGROUND & QUALIFICATIONS
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
