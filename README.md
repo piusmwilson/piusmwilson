@@ -90,6 +90,8 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - Extreme Programming Explained by Kent Beck
 - The Software Engineering Guidebook
 
+These are just a few of the many I’ve read. Check out my Good reads profile for a comprehensive stock pile.
+
 ## LETS CONNECT
 
 * [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
@@ -97,7 +99,6 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 * [Twitter](https://twitter.com/piusmwilson)
 * [Medium](https://piusmwilson.medium.com/)
 
-These are just a few of the many I’ve read. Check out my Good reads profile for a comprehensive stock pile.
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
