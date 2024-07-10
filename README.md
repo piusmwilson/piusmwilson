@@ -92,6 +92,20 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 
 These are just a few of the many I’ve read. Check out my Good reads profile for a comprehensive stock pile.
 
+## COMMUNITY AND VOLUNTEER EXPERIENCE
+
+- Basketball Coaching, Player Development Training, Mentoring, Sports Management (Analytics & Digital Marketing).
+- Previously participated in various community outreach & capacity building initiatives under Rotary/Rotaract.
+- Website Administration, Public relations, Social Media Administration & Magazine development for a Rotary/Rotaract Club.
+
+## LANGUAGES & PROFICIENCY
+
+- English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
+
+## PROJECTS
+
+- GOU-HCM (MySQL, Data Analysis, IT Service Management) – While working as a Software Projects Implementation Consultant, I collaborated on the implementation of a Human Resource Management Systems for Government of Uganda managed by the Ministry of Public Service.
+
 ## LETS CONNECT
 
 * [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
