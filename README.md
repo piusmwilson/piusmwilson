@@ -2,7 +2,7 @@
 # Muhumuza Pius
 
 An IT Engineer with Interests in Business Information Technology, Software Project Management, ITSM, Python, R, Databases, and Data Management, for Business Process Improvement & solutions delivery.
-* Currently learning AI/ML for Data Science, cybersecurity and exploring Software Quality Assurance, Rust & Golang.
+* Currently researching & learning Intellectual Property Management concepts, AI/ML for Data Science, Cybersecurity and exploring Software Quality Assurance, Rust & Golang.
 
 ## About
 I am an Information Technology Engineer, with a sound and adaptive technical background built on solid work ethics and personal discipline.
