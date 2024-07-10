@@ -5,11 +5,12 @@ An IT Engineer with Interests in Business Information Technology, Software Proje
 * Currently researching & learning Intellectual Property Management concepts, AI/ML for Data Science, Cybersecurity and exploring Software Quality Assurance, Rust & Golang.
 
 ## About
-I am an Information Technology Engineer, with a sound and adaptive technical background built on solid work ethics and personal discipline.
 
-I’m purpose driven and deeply enthusiastic about technology-related business solutions, community outreach, professional growth, storytelling, people, books, productive conversations, as well as Sports Management and Administration Initiatives among other things.
+An I’m an lnformation Technology (IT) Engineer with 8+ years of business Information Technology experience, and a sound, adaptive technical background built on solid work ethics and personal discipline. 
 
-I’m excited about opportunities within software Development, Software Quality Assurance, Project Management, Product Management and Business Analysis centred roles among other things. 
+I’m big on Technology-Related Business Solutions, Process Improvements, Storytelling, Professional growth, and Productive conversations in areas of Community Outreach, Books and the Business of Sports.
+
+As a purpose driven problem solver, attempting to transition into Software Engineering with a foundation focus in Python, I’m excited about opportunities within software Development, Software Quality Assurance, Project Management, Product Management and Business Analysis centred roles among other things as I look forward to explore Rust & Golang in future.
 
 
 ## Contact Information
