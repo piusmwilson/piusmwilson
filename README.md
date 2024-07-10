@@ -12,14 +12,6 @@ I’m big on Technology-Related Business Solutions, Process Improvements, Storyt
 
 As a purpose driven problem solver, attempting to transition into Software Engineering with a foundation focus in Python, I’m excited about opportunities within software Development, Software Quality Assurance, Project Management, Product Management and Business Analysis centred roles among other things as I look forward to explore Rust & Golang in future.
 
-
-## CONTACT INFORMATION
-
-* [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
-* [GitHub](https://github.com/piusmwilson)
-* [Twitter](https://twitter.com/piusmwilson)
-* [Medium](https://piusmwilson.medium.com/)
-
 ## SKILLS SUMMARY
 
 * **Soft Skills:** _Problem Solving, Time management, Communication, Rapport building, Stakeholder management, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making._
@@ -58,41 +50,52 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
-## Insightful Technology Books.
-Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
-- [ ] The Effective Engineer 
-- [ ] The Pragmatic Programmers
-- [ ] A philosophy of Software Design 
-- [ ] The Grid
-- [ ] Coders by Clive Thompson 
-- [ ] The effective manager (check up real title) by Chou
-- [ ] Spark
-- [ ] The Startup CTO’s Handbook 
-- [ ] The Lean Startup 
-- [ ] The Startup Way
-- [ ] Ripples of the Zambezi
-- [ ] The Ideal Startup
-- [ ] MBA Day by Day by Chris Dalton
-- [ ] How to manage projects by Paul J Fielding 
-- [ ] Information Technology in Africa by Evans E. Woherem
-- [ ] Foundation ITIL(ITIL 4 Edition)
-- [ ] The Goal
-- [ ] Theory of Constraits
-- [ ] Systems thinking
-- [ ] Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
-- [ ] The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo
+## INSIGHTFUL BOOKS.
 
-## Currently Reading
-- [ ] Handbook of Software Engineering Methods by Lara Letaw
-- [ ] Skills of a successful Software Engineer by Fernando Doglio
-- [ ] Don’t make me think by Steve Krug.
-## Want to read 
-- [ ] Designing Data-Intensive Application 
-- [ ] The psychology of computer programming
-- [ ] Software Engineering at Google
-- [ ] Site Reliability Engineering 
-- [ ] Extreme Programming Explained by Kent Beck
-- [ ] The Software Engineering Guidebook
+Some of the Insightful Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
+- The Effective Engineer 
+- The Pragmatic Programmers
+- A philosophy of Software Design 
+- The Grid
+- Coders by Clive Thompson 
+- The effective manager (check up real title) by Chou
+- Spark
+- The Startup CTO’s Handbook 
+- The Lean Startup 
+- The Startup Way
+- Ripples of the Zambezi
+- The Ideal Startup
+- MBA Day by Day by Chris Dalton
+- How to manage projects by Paul J Fielding 
+- Information Technology in Africa by Evans E. Woherem
+- Foundation ITIL(ITIL 4 Edition)
+- The Goal
+- Theory of Constraits
+- Systems thinking
+- Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
+- The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo
+
+## CURRENTLY READING
+
+- Handbook of Software Engineering Methods by Lara Letaw
+- Skills of a successful Software Engineer by Fernando Doglio
+- Don’t make me think by Steve Krug.
+
+## WANT TO READ
+
+- Designing Data-Intensive Application 
+- The psychology of computer programming
+- Software Engineering at Google
+- Site Reliability Engineering 
+- Extreme Programming Explained by Kent Beck
+- The Software Engineering Guidebook
+
+## LETS CONNECT
+
+* [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
+* [GitHub](https://github.com/piusmwilson)
+* [Twitter](https://twitter.com/piusmwilson)
+* [Medium](https://piusmwilson.medium.com/)
 
 These are just a few of the many I’ve read. Check out my Good reads profile for a comprehensive stock pile.
 <!--
