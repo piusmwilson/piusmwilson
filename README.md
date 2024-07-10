@@ -62,7 +62,43 @@ Discover how easy it is to stay updated with [daily.dev](https://dly.to/wiAJywWT
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
+## Insightful Technology Books.
+Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
+- [ ] The Effective Engineer 
+- [ ] The Pragmatic Programmers
+- [ ] A philosophy of Software Design 
+- [ ] The Grid
+- [ ] Coders by Clive Thompson 
+- [ ] The effective manager (check up real title) by Chou
+- [ ] Spark
+- [ ] The Startup CTO’s Handbook 
+- [ ] The Lean Startup 
+- [ ] The Startup Way
+- [ ] Ripples of the Zambezi
+- [ ] The Ideal Startup
+- [ ] MBA Day by Day by Chris Dalton
+- [ ] How to manage projects by Paul J Fielding 
+- [ ] Information Technology in Africa by Evans E. Woherem
+- [ ] Foundation ITIL(ITIL 4 Edition)
+- [ ] The Goal
+- [ ] Theory of Constraits
+- [ ] Systems thinking
+- [ ] Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
+- [ ] The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo
 
+## Currently Reading
+- [ ] Handbook of Software Engineering Methods by Lara Letaw
+- [ ] Skills of a successful Software Engineer by Fernando Doglio
+- [ ] Don’t make me think by Steve Krug.
+## Want to read 
+- [ ] Designing Data-Intensive Application 
+- [ ] The psychology of computer programming
+- [ ] Software Engineering at Google
+- [ ] Site Reliability Engineering 
+- [ ] Extreme Programming Explained by Kent Beck
+- [ ] The Software Engineering Guidebook
+
+These are just a few of the many I’ve read. Check out my Good reads profile for a comprehensive stock pile.
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
