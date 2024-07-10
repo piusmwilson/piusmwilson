@@ -9,6 +9,7 @@ I am an Information Technology Engineer, with a sound and adaptive technical bac
 
 I’m purpose driven and deeply enthusiastic about technology-related business solutions, community outreach, professional growth, storytelling, people, books, productive conversations, as well as Sports Management and Administration Initiatives among other things.
 
+I’m excited about opportunities within software Development, Software Quality Assurance, Project Management, Product Management and Business Analysis centred roles among other things. 
 
 
 ## Contact Information
