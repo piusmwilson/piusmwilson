@@ -6,7 +6,7 @@ An IT Engineer with Interests in Business Information Technology, Software Proje
 
 ## About
 
-An I’m an lnformation Technology (IT) Engineer with 8+ years of business Information Technology experience, and a sound, adaptive technical background built on solid work ethics and personal discipline. 
+An I’m an lnformation Technology (IT) Engineer with 8+ years of business Information Technology experience and a sound, adaptive technical background built on solid work ethics and personal discipline. 
 
 I’m big on Technology-Related Business Solutions, Process Improvements, Storytelling, Professional growth, and Productive conversations in areas of Community Outreach, Books and the Business of Sports.
 
