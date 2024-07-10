@@ -31,6 +31,14 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 * Prompt Engineering, Technical Writing, & Storying.
 
 
+## SKILLS SUMMARY
+
+* **Soft Skills:** _Problem Solving, Time management, Communication, Rapport building, Stakeholder management, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making._
+* **Technical Skills:** _IT Service Management, Business Process Improvement, Databases, Systems Administration, Software Project Management, Version Control, Technical Writing, Graphics Design, Digital Marketing, Data Management & Analysis, Photography, Quality Assurance, Agile, Scrum, HR Transformation, & Systems Analysis._
+* **Languages:** _HTML, CSS, SQL, Python (Basic), R (Basic), PowerBI (Basic), Tableau (Basic)._
+* **Tools & Platforms:* _MySQL, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git, VSCode, Android Studio, Trello, Jira, WordPress, GitHub, PyCharm & Juypter Notebook (Basic)._
+
+
 ## Experience
 
 #### Software Implementation Project Consultant
