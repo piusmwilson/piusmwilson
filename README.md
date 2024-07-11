@@ -53,7 +53,8 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 ## INSIGHTFUL BOOKS.
 
 Some of the Insightful Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
-- The Effective Engineer 
+- [The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer)
+Book by Edmond Lau
 - The Pragmatic Programmers
 - A philosophy of Software Design 
 - The Grid
