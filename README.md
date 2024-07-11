@@ -58,7 +58,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - A philosophy of Software Design 
 - The Grid
 - Coders by Clive Thompson 
-- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+- [The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 - [Spark: How to free your brain from technology to ignite your creativity
 Manoush Zomorodi](https://www.goodreads.com/book/show/53886996-spark)
 - The Startup CTO’s Handbook 
@@ -74,7 +74,6 @@ Manoush Zomorodi](https://www.goodreads.com/book/show/53886996-spark)
 - Theory of Constraits
 - Systems thinking
 - Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
-- The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo
 
 ## CURRENTLY READING
 
