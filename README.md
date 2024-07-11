@@ -58,8 +58,9 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - A philosophy of Software Design 
 - The Grid
 - Coders by Clive Thompson 
-- The effective manager (check up real title) by Chou
-- Spark
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+- [Spark: How to free your brain from technology to ignite your creativity
+Manoush Zomorodi](https://www.goodreads.com/book/show/53886996-spark)
 - The Startup CTO’s Handbook 
 - The Lean Startup 
 - The Startup Way
