@@ -46,7 +46,7 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 
 * BAWN Group | Full-time - (Jan 2015 - Feb 2016) | 1 yr 2 months
 
-## EDUCATION BACKGROUND, QUALIFICATIONS & CERTIFICATIONS
+## EDUCATION BACKGROUND | Qualifications & Certifications
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
