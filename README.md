@@ -46,13 +46,13 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 
 * BAWN Group | Full-time - (Jan 2015 - Feb 2016) | 1 yr 2 months
 
-## EDUCATION BACKGROUND & QUALIFICATIONS
+## EDUCATION BACKGROUND, QUALIFICATIONS & CERTIFICATIONS
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
-## CERTIFICATIONS
-
 ## PROJECTS & CONTRIBUTIONS
+
+- GOU-HCM (MySQL, Data Analysis, IT Service Management) – While working as a Software Projects Implementation Consultant, I collaborated on the implementation of a Human Resource Management Systems for Government of Uganda managed by the Ministry of Public Service.
 
 ## INSIGHTFUL BOOKS.
 
@@ -106,10 +106,6 @@ These are just a few of the many I’ve read. Check out my Good reads profile fo
 ## LANGUAGES & PROFICIENCY
 
 - English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
-
-## PROJECTS
-
-- GOU-HCM (MySQL, Data Analysis, IT Service Management) – While working as a Software Projects Implementation Consultant, I collaborated on the implementation of a Human Resource Management Systems for Government of Uganda managed by the Ministry of Public Service.
 
 ## LETS CONNECT
 
