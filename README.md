@@ -111,7 +111,7 @@ These are just a few of the many I’ve read. Check out my Good reads profile fo
 
 * [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 * [GitHub](https://github.com/piusmwilson)
-* [Twitter](https://twitter.com/piusmwilson)
+* [X Platform ](https://x.com/piusmwilson)
 * [Medium](https://piusmwilson.medium.com/)
 
 <!--
