@@ -50,6 +50,10 @@ As a purpose driven problem solver, attempting to transition into Software Engin
 
 * Bachelor of Science, Information Technology at Uganda Martyrs University.
 
+## CERTIFICATIONS
+
+## PROJECTS & CONTRIBUTIONS
+
 ## INSIGHTFUL BOOKS.
 
 Some of the Insightful Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
