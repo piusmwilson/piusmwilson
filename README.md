@@ -6,16 +6,16 @@ I'm an Information Technology Practitioner, with sound working experience founde
 
 ## ABOUT
 
-I'm also purpose driven and deeply enthusiastic about technology-related business problem solving, community outreach, professional growth, storytelling, books, productive conversations, and the business of Sports, attempting to transition into Software Engineering with a foundation focus in Python, I'm excited about opportunities within Software Project Management(_software Development, Software Implementation, Software Quality Assurance, Software Testing), 
-Product Management and Business Analysis centred roles among other things as I look forward to explore Rust & Golang in future.
+I'm also purpose driven and deeply enthusiastic about technology-related business problem solving, community outreach, professional growth, storytelling, books, productive conversations, and the business of Sports, attempting to transition into Business Analysis, with a focus on Software Project Management, Product Management and Systems Thinking among other things as I explore Python, R, Rust & Go lanaguages on the side.
+
 My vision is to become a systems thinking-centered problem solver first and foremost, and then an industry thought leader in the technology space with a well rounded technology background and hands-on experience.
 
 ## SKILLS SUMMARY
 
-- **Soft Skills:** _Problem Solving, Time management, Communication, Rapport building, Stakeholder management, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making._
-- **Technical Skills:** _IT Service Management, Business Process Improvement, Databases, Systems Administration, Software Project Management, Version Control, Technical Writing, Graphics Design, Digital Marketing, Data Management & Analysis, Photography, Quality Assurance, Agile, Scrum, HR Transformation, & Systems Analysis._
-- **Languages:** _HTML, CSS, SQL, Python (Basic), R (Basic), PowerBI (Basic), Tableau (Basic)._
-- **Tools & Platforms:** _MySQL, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git, VSCode, Android Studio, Trello, Jira, WordPress, GitHub, PyCharm & Juypter Notebook (Basic)._
+- **Soft Skills:** _Problem Solving, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making._
+- **Technical Skills:** _IT Service Management, Business Process Improvement, Database and Systems Administration, Software Project Management, Version Control, Technical Writing, Design Thinking, Digital Marketing, Data Management & Analysis, Photography, Quality Assurance, HR Transformation, & Systems Thinking and Analysis._
+- **Languages:** _HTML, CSS, SQL, Markdown, Python (Basic), R (Basic), PowerBI (Basic), Tableau (Basic)._
+- **Tools & Platforms:** _MySQL, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git & GitHub, VSCode & Visual Studio, Android Studio, Trello, Jira, WordPress, PyCharm & Juypter Notebook (Basic)._
 
 ## WORK EXPERIENCE
 
