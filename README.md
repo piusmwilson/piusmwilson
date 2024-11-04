@@ -51,11 +51,11 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 Some of the Insightful Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
 
 - [The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau](https://www.goodreads.com/book/show/25238425-the-effective-engineer)
-- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/).
-- [Peopleware: Productive Projects and Teams](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/).
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- [Peopleware: Productive Projects and Teams](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/)
 - [A philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [The Grid: The Decision-making Tool for Every Business (Including Yours) by Matt Watkinson](https://www.amazon.co.uk/Grid-Decision-making-Every-Business-Including/dp/1847947948)
-- [Coders: Who they are, what they think and how they are changing our world](https://www.amazon.com/Coders-They-Think-Changing-World-ebook/dp/B07L8L4FP7).
+- [Coders: Who they are, what they think and how they are changing our world](https://www.amazon.com/Coders-They-Think-Changing-World-ebook/dp/B07L8L4FP7)
 - [The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 - [Spark: How to free your brain from technology to ignite your creativity by Manoush Zomorodi](https://www.goodreads.com/book/show/53886996-spark)
 - [The Startup CTO’s Handbook](https://zachgoldberg.com/ctohandbook/)
