@@ -72,7 +72,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [How to manage projects by Paul J Fielding](https://piusmwilson.medium.com/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6#:~:text=The%20book%20How%20to%20Manage,practical%20and%20easy%20to%20understand)
 - [Information Technology in Africa by Evans E. Woherem](https://books.google.co.ug/books/about/Information_Technology_in_Africa.html?id=250rAAAAYAAJ&redir_esc=y)
 - [Foundation ITIL(ITIL 4 Edition)](https://github.com/piusmwilson/business-information-technology-library/blob/main/resources/ITILFoundation.pdf)
-- Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
+- [Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.](https://github.com/piusmwilson/business-information-technology-library/blob/main/resources/Systems_one_An_introduction_to_systems.pdf)
 - [Intellectual Property in East Africa.](https://lawafrica.com/bookstore/product/intellectual-property-law-in-east-africa/)
 - [The Startup Way: How Entrepreneurial Management Transforms Culture and Drives Growth by Eric Ries.](https://www.thestartupway.com/)
 - [Skills of a successful Software Engineer by Fernando Doglio](https://www.amazon.com/Skills-Successful-Software-Engineer-Fernando/dp/1617299707)
