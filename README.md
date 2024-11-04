@@ -1,6 +1,6 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
 
-# MUHUMUZA PIUS
+# [MUHUMUZA PIUS](https://www.linkedin.com/in/piusmwilson/)
 
 I'm an Information Technology Practitioner, with sound working experience founded on an adaptive technical background, good work ethics, a creative mindset and personal discipline seeking opportunities to delivery & grow professionally.
 
@@ -17,7 +17,7 @@ My vision is to become a systems thinking-centered problem solver first and fore
 - **Languages:** _HTML, CSS, SQL, Markdown, Python (Basic), R (Basic), PowerBI (Basic), Tableau (Basic)._
 - **Tools & Platforms:** _MySQL, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git & GitHub, VSCode & Visual Studio, Android Studio, Trello, Jira, WordPress, PyCharm & Juypter Notebook (Basic)._
 
-## WORK EXPERIENCE
+## [WORK EXPERIENCE](https://www.linkedin.com/in/piusmwilson/)
 
 ### hSenid Business Solutions
 
@@ -66,32 +66,32 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Theory of Constraints by Eliyahu M. Goldratt](https://www.goodreads.com/book/show/582174.Theory_of_Constraints)
 - [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/113934.The_Goal)
 - [The Wisdom Of James Allen: Five Classic Works](https://www.goodreads.com/book/show/81957.The_Wisdom_of_James_Allen)
-- The Ideal Startup: Practical Strategies For Getting Your New Business Off the Ground by Nicholas Aruho
-- African Religions and Philosophy by John S Mbiti.
-- The Invention Of Africa: Gnosis, Philosophy, And The Order of Knowledge by V.Y.Mudimbe
-- How to manage projects by Paul J Fielding 
-- Information Technology in Africa by Evans E. Woherem
-- Foundation ITIL(ITIL 4 Edition)
-- Systems thinking
+- [The Ideal Startup: Practical Strategies For Getting Your New Business Off the Ground by Nicholas Aruho](https://africanauthors.net/the-savvy-entrepreneur-navigating-business-realities-in-uganda/)
+- [African Religions and Philosophy by John S Mbiti.](https://www.goodreads.com/book/show/1191844.African_Religions_Philosophy)
+- [The Invention Of Africa: Gnosis, Philosophy, And The Order of Knowledge by V.Y.Mudimbe](https://books.google.co.ug/books/about/The_Invention_of_Africa.html?id=-jwNAQAAMAAJ&redir_esc=y)
+- [How to manage projects by Paul J Fielding](https://piusmwilson.medium.com/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6#:~:text=The%20book%20How%20to%20Manage,practical%20and%20easy%20to%20understand)
+- [Information Technology in Africa by Evans E. Woherem](https://books.google.co.ug/books/about/Information_Technology_in_Africa.html?id=250rAAAAYAAJ&redir_esc=y)
+- [Foundation ITIL(ITIL 4 Edition)](https://github.com/piusmwilson/business-information-technology-library/blob/main/resources/ITILFoundation.pdf)
 - Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
-- Intellectual Property in East Africa.
-- The Startup Way: How Entrepreneurial Management Transforms Culture and Drives Growth by Eric Ries.
-- Skills of a successful Software Engineer by Fernando Doglio
-- Handbook of Software Engineering Methods by Lara Letaw
+- [Intellectual Property in East Africa.](https://lawafrica.com/bookstore/product/intellectual-property-law-in-east-africa/)
+- [The Startup Way: How Entrepreneurial Management Transforms Culture and Drives Growth by Eric Ries.](https://www.thestartupway.com/)
+- [Skills of a successful Software Engineer by Fernando Doglio](https://www.amazon.com/Skills-Successful-Software-Engineer-Fernando/dp/1617299707)
+- [Handbook of Software Engineering Methods by Lara Letaw](https://github.com/setextbook/setextbook)
 
 ### CURRENTLY READING
 
-- Introduction To Software Project Management by Adolfo Villafiorita
+- [Introduction To Software Project Management by Adolfo Villafiorita](https://books.google.co.ug/books?id=UFHSBQAAQBAJ&source=gbs_navlinks_s)
+- [DARWIN: Origin of Species](https://books.google.co.ug/books/about/The_Origin_of_Species.html?id=pqX6ekQvbCIC&redir_esc=y)
 
 ### WANT TO READ
 
-- Don’t make me think by Steve Krug.
-- Designing Data-Intensive Application
-- The psychology of computer programming
-- Software Engineering at Google
-- Site Reliability Engineering
-- Extreme Programming Explained by Kent Beck
-- The Software Engineering Guidebook
+- [Don’t make me think by Steve Krug.](https://github.com/piusmwilson/business-information-technology-library/blob/main/resources/Don%E2%80%99t%20Make%20Me%20Think%20by%20Steve%20Krug.pdf)
+- [Designing Data-Intensive Application](https://dataintensive.net/)
+- [The psychology of computer programming](https://books.google.co.ug/books/about/The_Psychology_of_Computer_Programming.html?id=76dIAAAAMAAJ&redir_esc=y)
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
+- [Extreme Programming Explained by Kent Beck](https://books.google.co.ug/books/about/Extreme_Programming_Explained.html?id=G8EL4H4vf7UC&redir_esc=y)
+- [The Software Engineering Guidebook](https://www.engguidebook.com/)
 
 ## COMMUNITY AND VOLUNTEER EXPERIENCE
 
@@ -105,7 +105,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 
 ## LETS CONNECT
 
-- [LinkedIn](https://www.linkedin.com/in/muhumuzapius/)
+- [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 - [GitHub](https://github.com/piusmwilson)
 - [X Platform](https://x.com/piusmwilson)
 - [Medium](https://piusmwilson.medium.com/)
