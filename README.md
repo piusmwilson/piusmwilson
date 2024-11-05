@@ -1,8 +1,6 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
 
-# MUHUMUZA PIUS
-
-## Business Information Technology | Business Analysis | Systems Thinking | Software Project Management
+# [MUHUMUZA PIUS](https://www.linkedin.com/in/piusmwilson/)
 
 I'm an Information Technology Practitioner, with sound working experience founded on an adaptive technical background, good work ethics, a creative mindset and personal discipline seeking opportunities to delivery & grow professionally.
 
@@ -18,15 +16,7 @@ My vision is to become a systems thinking-centered problem solver first and fore
 
 - **Tools & Platforms:** _HTML, CSS, SQL, Markdown, MySQL, JSON, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git & GitHub, VSCode & Visual Studio, Android Studio, Trello, Jira, WordPress, PyCharm & Juypter Notebook (Basic), Wordpress._
 
-## 🌱 I’M CURRENTLY lEARNING
-
-Python, Django, R, PowerBI, Tableau, Full-Stack WordPress, JavaScript, Nodejs
-
-## 🤔 I’m looking for help with
-
-Rust, Go, PostgreSQL, MongoDB,
-
-## 👷🏿‍♂️ WORK EXPERIENCE
+## WORK EXPERIENCE
 
 ### hSenid Business Solutions
 
@@ -91,11 +81,11 @@ I also make an effort where necessary to credit my sources by endeavouring to ad
 Some of the Insightful Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
 
 - [The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau](https://www.goodreads.com/book/show/25238425-the-effective-engineer)
-- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/).
-- [Peopleware: Productive Projects and Teams](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/).
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- [Peopleware: Productive Projects and Teams](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/)
 - [A philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [The Grid: The Decision-making Tool for Every Business (Including Yours) by Matt Watkinson](https://www.amazon.co.uk/Grid-Decision-making-Every-Business-Including/dp/1847947948)
-- [Coders: Who they are, what they think and how they are changing our world](https://www.amazon.com/Coders-They-Think-Changing-World-ebook/dp/B07L8L4FP7).
+- [Coders: Who they are, what they think and how they are changing our world](https://www.amazon.com/Coders-They-Think-Changing-World-ebook/dp/B07L8L4FP7)
 - [The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 - [Spark: How to free your brain from technology to ignite your creativity by Manoush Zomorodi](https://www.goodreads.com/book/show/53886996-spark)
 - [The Startup CTO's Handbook](https://zachgoldberg.com/ctohandbook/)
@@ -109,7 +99,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - The Ideal Startup: Practical Strategies For Getting Your New Business Off the Ground by Nicholas Aruho
 - African Religions and Philosophy by John S Mbiti.
 - The Invention Of Africa: Gnosis, Philosophy, And The Order of Knowledge by V.Y.Mudimbe
-- How to manage projects by Paul J Fielding.
+- How to manage projects by Paul J Fielding 
 - Information Technology in Africa by Evans E. Woherem
 - Foundation ITIL(ITIL 4 Edition)
 - Systems thinking
@@ -118,14 +108,39 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - The Startup Way: How Entrepreneurial Management Transforms Culture and Drives Growth by Eric Ries.
 - Skills of a successful Software Engineer by Fernando Doglio
 - Handbook of Software Engineering Methods by Lara Letaw
-- Introduction To Software Project Management by Adolfo Villafiorita **_(Want to Read)_**
-- Don’t make me think by Steve Krug **_(Want to Read)_**
-- Designing Data-Intensive Application **_(Want to Read)_**
-- The psychology of computer programming **_(Want to Read)_**
-- Software Engineering at Google **_(Want to Read)_**
-- Site Reliability Engineering **_(Want to Read)_**
-- Extreme Programming Explained by Kent Beck **_(Want to Read)_**
-- The Software Engineering Guidebook **_(Want to Read)_**
+
+### CURRENTLY READING
+
+- Introduction To Software Project Management by Adolfo Villafiorita
+
+### WANT TO READ
+
+- Don’t make me think by Steve Krug.
+- Designing Data-Intensive Application
+- The psychology of computer programming
+- Software Engineering at Google
+- Site Reliability Engineering
+- Extreme Programming Explained by Kent Beck
+- The Software Engineering Guidebook
+
+## COMMUNITY AND VOLUNTEER EXPERIENCE
+
+- Basketball Coaching, Player Development Training, Mentoring, and Sports Management.
+- Participated in various community outreach & capacity building initiatives under Rotary/Rotaract gaining Leadership and Community Projects experience.
+- Website Administration, Public relations, Social Media Administration & Magazine development for Rotary/Rotaract.
+
+## LANGUAGES & PROFICIENCY
+
+- English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
+
+## LETS CONNECT
+
+- [LinkedIn](https://www.linkedin.com/in/muhumuzapius/)
+- [GitHub](https://github.com/piusmwilson)
+- [X Platform](https://x.com/piusmwilson)
+- [Medium](https://piusmwilson.medium.com/)
+- [Dev Community](https://dev.to/piusmwilson)
+- [Substack](https://piusmwilson.substack.com/)
 
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
