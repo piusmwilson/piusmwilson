@@ -16,26 +16,26 @@ My vision is to become a systems thinking-centered problem solver first and fore
 
 - **Tools & Platforms:** _HTML, CSS, SQL, Markdown, MySQL, JSON, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git & GitHub, VSCode & Visual Studio, Android Studio, Trello, Jira, WordPress, PyCharm & Juypter Notebook (Basic), Wordpress._
 
-## WORK EXPERIENCE
+## [WORK EXPERIENCE]((https://www.linkedin.com/in/piusmwilson/))
 
 ### hSenid Business Solutions
 
 Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024)
 
-#### Shopto (U) Limited
+### Shopto (U) Limited
 
 - Web & Mobile Developer | Fulltime - (Apr 2019 - Jun 2021) | 2 yrs 3 months.
 
-#### Smartwatch Solutions UG
+### Smartwatch Solutions UG
 
 - Content & Telematics Quality Assurance Officer | (Aug 2017 - Jan 2019) | 1 yr 6 months.
 - Graphic/Web Content Officer | FullTime - (May 2017 - Jan 2019) | 1 yr 9 months.
 
-#### Jumia Travel(Now Jumia Uganda)
+### Jumia Travel(Now Jumia Uganda)
 
 - Social Media Intern | Internship - (Apr 2016 - Sep 2016) | 6 months
 
-#### BAWN Group
+### BAWN Group
 
 - IT Support Technician | Full-time - (Jan 2015 - Feb 2016) | 1 yr 2 months
 
@@ -49,7 +49,6 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 - Participated in various community outreach & capacity building initiatives under Rotary/Rotaract gaining Leadership and Community Projects experience.
 - Website Administration, Public relations, Social Media Administration & Magazine development for Rotary/Rotaract.
 
-## PROJECTS & CONTRIBUTIONS
 
 ## 💬 LANGUAGES & PROFICIENCY
 
