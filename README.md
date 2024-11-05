@@ -4,13 +4,13 @@
 
 I'm an Information Technology Practitioner, with sound working experience founded on an adaptive technical background, good work ethics, a creative mindset and personal discipline seeking opportunities to delivery & grow professionally.
 
-## 🤓 ABOUT ME
+## ABOUT ME
 
 I'm also purpose driven and deeply enthusiastic about technology-related business problem solving, community outreach, professional growth, storytelling, books, productive conversations, and the business of Sports, attempting to transition into Business Analysis, with a focus on Software Project Management, Product Management and Systems Thinking among other things as I explore Python, R, Rust & Go lanaguages on the side.
 
 My vision is to become a systems thinking-centered problem solver first and foremost, and then an industry thought leader in the technology space with a well rounded technology background and hands-on experience.
 
-## 🥷🏿 SKILLS SUMMARY
+## SKILLS SUMMARY
 
 - **Soft Skills:** _Problem Solving, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making, IT Service Management, Business Process Improvement, Client-facing Technical Communication, Database and Systems Administration, Software Project Management, Software Quality Assurance, Version Control, Technical Writing, Design Thinking, Digital Marketing, Data Management & Analysis, Sports Business, Design Thinking, Photography, Quality Assurance, HR Transformation, & Systems Thinking and Analysis._
 
@@ -39,22 +39,22 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 
 - IT Support Technician | Full-time - (Jan 2015 - Feb 2016) | 1 yr 2 months
 
-## 🎓 EDUCATION BACKGROUND | Qualifications & Certifications
+## EDUCATION BACKGROUND | Qualifications & Certifications
 
 - Bachelor of Science, Information Technology at Uganda Martyrs University.
 
-## ⏳ COMMUNITY AND VOLUNTEER EXPERIENCE
+## COMMUNITY AND VOLUNTEER EXPERIENCE
 
 - Basketball Coaching, Player Development Training, Mentoring, and Sports Management.
 - Participated in various community outreach & capacity building initiatives under Rotary/Rotaract gaining Leadership and Community Projects experience.
 - Website Administration, Public relations, Social Media Administration & Magazine development for Rotary/Rotaract.
 
 
-## 💬 LANGUAGES & PROFICIENCY
+## LANGUAGES & PROFICIENCY
 
 - English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
 
-## ⚡ FUN FACT
+## FUN FACT
 
 I love reading and tend to sometimes write about what I read as a way to confirm what I've learnt or just for the sheer thrill of sharing, know it will benefit someone immensely.
 
@@ -74,7 +74,7 @@ I also make an effort where necessary to credit my sources by endeavouring to ad
 - [X Platform](https://x.com/piusmwilson)
 - [Instagram](https://instagram.com/piusmwilson)
 
-## 📚📖 LET'S TALK ABOUT BOOKS
+## LET'S TALK ABOUT BOOKS
 
 Some of the Insightful Books that have informed & shaped my technical perspective and growth mindset include but not limited to;-
 
