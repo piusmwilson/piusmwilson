@@ -72,7 +72,6 @@ I also make an effort where necessary to credit my sources by endeavouring to ad
 - [Dev Community](https://dev.to/piusmwilson)
 - [Substack](https://piusmwilson.substack.com/)
 - [LinkedIn Newsletters](https://www.linkedin.com/in/muhumuzapius/)
-- Muwado
 - [X Platform](https://x.com/piusmwilson)
 - [Instagram](https://instagram.com/piusmwilson)
 
