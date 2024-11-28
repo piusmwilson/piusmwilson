@@ -71,7 +71,7 @@ I also make an effort where necessary to credit my sources by endeavouring to ad
 - [Medium](https://piusmwilson.medium.com/)
 - [Dev Community](https://dev.to/piusmwilson)
 - [Substack](https://piusmwilson.substack.com/)
-- [LinkedIn Newsletters](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7255002203449352192)
+- [LinkedIn Newsletters](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7255002203449352192)
 - [X Platform](https://x.com/piusmwilson)
 - [Instagram](https://instagram.com/piusmwilson)
 
