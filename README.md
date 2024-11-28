@@ -1,20 +1,21 @@
 ![piusnmuhumuza!](.github/piusnmuhumuza-cover.jpg)
 
-# [MUHUMUZA PIUS](https://www.linkedin.com/in/piusmwilson/)
+# [MUHUMUZA PIUS](https://www.linkedin.com/in/piusmwilson/) | IT Engineer
 
-I'm an Information Technology Practitioner, with sound working experience founded on an adaptive technical background, good work ethics, a creative mindset and personal discipline seeking opportunities to delivery & grow professionally.
+**Business Information Technology | Software Engineering | Project Management | Business Analysis** 
+
 
 ## ABOUT ME
 
-I'm also purpose driven and deeply enthusiastic about technology-related business problem solving, community outreach, professional growth, storytelling, books, productive conversations, and the business of Sports, attempting to transition into Business Analysis, with a focus on Software Project Management, Product Management and Systems Thinking among other things as I explore Python, R, Rust & Go lanaguages on the side.
+I'm an Information Technology Practitioner, with sound working experience founded on an adaptive technical background, good work ethics, a creative mindset and personal discipline seeking opportunities to delivery & grow professionally.
 
-My vision is to become a systems thinking-centered problem solver first and foremost, and then an industry thought leader in the technology space with a well rounded technology background and hands-on experience.
+I’m also purpose driven and deeply enthusiastic about technology-related business problem solving, community outreach, professional growth, storytelling, books, productive conversations, and the business of Sports.
 
-## SKILLS SUMMARY
+My vision is to become a systems thinking-centered problem solver first and foremost, and then an industry thought leader with a well rounded technical background and hands-on experience in the technology space.
 
-- **Soft Skills:** _Problem Solving, Training & Mentoring, Cross team collaboration & Leadership, Critical thinking & Decision making, IT Service Management, Business Process Improvement, Client-facing Technical Communication, Database and Systems Administration, Software Project Management, Software Quality Assurance, Version Control, Technical Writing, Design Thinking, Digital Marketing, Data Management & Analysis, Sports Business, Design Thinking, Photography, Quality Assurance, HR Transformation, & Systems Thinking and Analysis._
+## SKILLS & TOOLS SUMMARY
 
-- **Tools & Platforms:** _HTML, CSS, SQL, Markdown, MySQL, JSON, Microsoft SQL Server, Adobe (LightRoom, illustrator, Photoshop, InDesign), Figma, Excel, Git & GitHub, VSCode & Visual Studio, Android Studio, Trello, Jira, WordPress, PyCharm & Juypter Notebook (Basic), Wordpress._
+- _Problem Solving, Critical thinking, Decision making, IT service Management, Software Project Management, Software Implementation Management, Systems Administration, Database Administration, Version Control (Git), SQL(MySQL, MsSQL), HTML, CSS, PHP, JSON, Technical Writing (Markdown), NodeJS, Python Language,  Business Analysis, Data Analysis, Full-stack WordPress, Excel, Tableau, RStudio, UI/UX(Figma),  Cross-Technical team collaboration & Leadership, Technical Training & Mentoring, Quality Assurance, HRIS & HR Transformation, Design Thinking, PhotoShop, illustrator, Digital Marketing and Systems Thinking._
 
 ## [WORK EXPERIENCE]((https://www.linkedin.com/in/piusmwilson/))
 
@@ -64,13 +65,13 @@ I hope those who come across my publications find it as resourceful and worthy o
 
 I also make an effort where necessary to credit my sources by endeavouring to add source links at the end of most of articles in my References and Resources sections for my readers to find and also make use of.
 
-## 📫 Where to Find all my Articles and also Reach me
+## Where to Find all my Articles and also Reach me
 
 - [GitHub](https://github.com/piusmwilson)
 - [Medium](https://piusmwilson.medium.com/)
 - [Dev Community](https://dev.to/piusmwilson)
 - [Substack](https://piusmwilson.substack.com/)
-- [LinkedIn Newsletters](https://www.linkedin.com/in/muhumuzapius/)
+- [LinkedIn Newsletters](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7255002203449352192)
 - [X Platform](https://x.com/piusmwilson)
 - [Instagram](https://instagram.com/piusmwilson)
 
@@ -94,32 +95,29 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Theory of Constraints by Eliyahu M. Goldratt](https://www.goodreads.com/book/show/582174.Theory_of_Constraints)
 - [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/113934.The_Goal)
 - [The Wisdom Of James Allen: Five Classic Works](https://www.goodreads.com/book/show/81957.The_Wisdom_of_James_Allen)
-- The Ideal Startup: Practical Strategies For Getting Your New Business Off the Ground by Nicholas Aruho
-- African Religions and Philosophy by John S Mbiti.
-- The Invention Of Africa: Gnosis, Philosophy, And The Order of Knowledge by V.Y.Mudimbe
-- How to manage projects by Paul J Fielding 
-- Information Technology in Africa by Evans E. Woherem
-- Foundation ITIL(ITIL 4 Edition)
-- Systems thinking
-- Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.
-- Intellectual Property in East Africa.
-- The Startup Way: How Entrepreneurial Management Transforms Culture and Drives Growth by Eric Ries.
-- Skills of a successful Software Engineer by Fernando Doglio
-- Handbook of Software Engineering Methods by Lara Letaw
+- [The Ideal Startup: Practical Strategies For Getting Your New Business Off the Ground by Nicholas Aruho](https://www.linkedin.com/posts/nicholas-aruho-7682922b_new-book-out-the-ideal-startup-my-new-activity-7034136097576079361-02f9/?trk=public_profile_like_view)
+- [African Religions and Philosophy by John S Mbiti.](https://www.goodreads.com/book/show/1191844.African_Religions_Philosophy)
+- [The Invention Of Africa: Gnosis, Philosophy, And The Order of Knowledge by V.Y.Mudimbe.](https://www.goodreads.com/book/show/1392419.The_Invention_of_Africa)
+- [How to manage projects by Paul J Fielding](https://www.amazon.com/How-Manage-Projects-time-budget/dp/0749488697) 
+- [Information Technology in Africa by Evans E. Woherem'](https://books.google.co.ug/books/about/Information_Technology_in_Africa.html?id=250rAAAAYAAJ&redir_esc=y)
+- [Foundation ITIL(ITIL 4 Edition)](https://www.amazon.com/ITIL-foundation-Axelos/dp/0113316070)
+- [Systems One: An Introduction to Systems Thinking by Draper L. Jr. Kauffman.](https://www.goodreads.com/book/show/3276301-systems-one)
+- [Intellectual Property in East Africa.](https://books.google.co.ug/books/about/Intellectual_Property_Law_in_East_Africa.html?id=-vBInQAACAAJ&redir_esc=y)
+- [Skills of a successful Software Engineer by Fernando Doglio.](https://www.manning.com/books/skills-of-a-successful-software-engineer)
+- [Handbook of Software Engineering Methods by Lara Letaw.](https://github.com/setextbook/setextbook)
 
 ### CURRENTLY READING
 
-- Introduction To Software Project Management by Adolfo Villafiorita
+- [Introduction To Software Project Management by Adolfo Villafiorita](https://www.amazon.com/Introduction-Software-Project-Management-Villafiorita/dp/1466559535)
 
 ### WANT TO READ
 
-- Don’t make me think by Steve Krug.
-- Designing Data-Intensive Application
-- The psychology of computer programming
-- Software Engineering at Google
-- Site Reliability Engineering
-- Extreme Programming Explained by Kent Beck
-- The Software Engineering Guidebook
+- [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [The psychology of computer programming](https://geraldmweinberg.com/Site/Programming_Psychology.html)
+- [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+- [Site Reliability Engineering](https://sre.google/sre-book/introduction/)
+- [Extreme Programming Explained by Kent Beck](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+- [The Software Engineering Guidebook](https://www.engguidebook.com/)
 
 ## COMMUNITY AND VOLUNTEER EXPERIENCE
 
@@ -133,7 +131,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 
 ## LETS CONNECT
 
-- [LinkedIn](https://www.linkedin.com/in/muhumuzapius/)
+- [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 - [GitHub](https://github.com/piusmwilson)
 - [X Platform](https://x.com/piusmwilson)
 - [Medium](https://piusmwilson.medium.com/)
