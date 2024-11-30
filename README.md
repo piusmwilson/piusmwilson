@@ -107,6 +107,8 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Handbook of Software Engineering Methods by Lara Letaw.](https://github.com/setextbook/setextbook)
 - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century
 Jeff Lawson](https://www.goodreads.com/en/book/show/48716700-ask-your-developer)
+- [Scrum: The Art of Doing Twice the Work in Half the Time
+Jeff Sutherland](https://www.goodreads.com/book/show/19288230-scrum)
 
 ### CURRENTLY READING
 
