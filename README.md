@@ -105,6 +105,8 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Intellectual Property in East Africa.](https://books.google.co.ug/books/about/Intellectual_Property_Law_in_East_Africa.html?id=-vBInQAACAAJ&redir_esc=y)
 - [Skills of a successful Software Engineer by Fernando Doglio.](https://www.manning.com/books/skills-of-a-successful-software-engineer)
 - [Handbook of Software Engineering Methods by Lara Letaw.](https://github.com/setextbook/setextbook)
+- [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century
+Jeff Lawson](https://www.goodreads.com/en/book/show/48716700-ask-your-developer)
 
 ### CURRENTLY READING
 
