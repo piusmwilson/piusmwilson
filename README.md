@@ -119,7 +119,6 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 
 ### WANT TO READ
 
-
 - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [The psychology of computer programming](https://geraldmweinberg.com/Site/Programming_Psychology.html)
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
