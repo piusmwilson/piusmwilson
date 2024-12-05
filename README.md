@@ -91,6 +91,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries](https://theleanstartup.com/book)
 - [The Startup Way: How Entreprenuerial Management Transforms Culture and Drives Growth by Eric Ries](https://www.thestartupway.com/)
 - [Ripples of the Zambezi](https://www.socioeco.org/bdf_fiche-publication-765_en.html)
+- [The Personal MBA: Master the art of Business by Josh Kauffman](https://personalmba.com/)
 - [MBA Day by Day by Chris Dalton](https://www.amazon.com/MBA-Day-Chris-Dalton-ebook/dp/B07WW4N6JH)
 - [Theory of Constraints by Eliyahu M. Goldratt](https://www.goodreads.com/book/show/582174.Theory_of_Constraints)
 - [The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/113934.The_Goal)
@@ -105,12 +106,19 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Intellectual Property in East Africa.](https://books.google.co.ug/books/about/Intellectual_Property_Law_in_East_Africa.html?id=-vBInQAACAAJ&redir_esc=y)
 - [Skills of a successful Software Engineer by Fernando Doglio.](https://www.manning.com/books/skills-of-a-successful-software-engineer)
 - [Handbook of Software Engineering Methods by Lara Letaw.](https://github.com/setextbook/setextbook)
+- [The Intelligent Entreprenuer: How Three Harvard Business Schoool Graduates Learned the Rules of Successful Business by Bill Murphy.](https://www.amazon.com/Intelligent-Entrepreneur-Graduates-Successful-Entrepreneurship/dp/0753539594)
+- [Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+- [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century by Jeff Lawson (Author), Eric Ries (Foreword)](https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292)
+- [Keeping Customers: And Getting their Friends too by Dorothy M.Tuma.](https://www.amazon.com/Keeping-Customers-Getting-Their-Friends/dp/197757873X)
 
 ### CURRENTLY READING
 
 - [Introduction To Software Project Management by Adolfo Villafiorita](https://www.amazon.com/Introduction-Software-Project-Management-Villafiorita/dp/1466559535)
+- [Tim Cook: The Genius Who Took Apple to the Next by Leander Kahney](https://www.amazon.com/Tim-Cook-Genius-Apple-Level/dp/0525537600)
+- [Traction: A Startup Guide to Getting Customers by Gabriel Weinberg and Justin Mares](https://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609)
 
 ### WANT TO READ
+
 
 - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [The psychology of computer programming](https://geraldmweinberg.com/Site/Programming_Psychology.html)
@@ -118,6 +126,11 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Site Reliability Engineering](https://sre.google/sre-book/introduction/)
 - [Extreme Programming Explained by Kent Beck](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 - [The Software Engineering Guidebook](https://www.engguidebook.com/)
+- [The Product Book: How To Become a Great Product Manger by Josh Anon & Carlos Gonzalez Villaumbrosia](https://productschool.com/resources/ebooks/the-product-book)
+- [Seven Databases in Seven Weeks by Luc Perkins with Eric Redmond and Jim R. Wilson](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
+- [The Design Of Everyday Things by Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Don't Make Me Think:Revisted by Steve Krug](https://sensible.com/dont-make-me-think/)
+
 
 ## COMMUNITY AND VOLUNTEER EXPERIENCE
 
