@@ -110,15 +110,19 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
 - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century by Jeff Lawson (Author), Eric Ries (Foreword)](https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292)
 - [Keeping Customers: And Getting their Friends too by Dorothy M.Tuma.](https://www.amazon.com/Keeping-Customers-Getting-Their-Friends/dp/197757873X)
+- [A HIstory Of Uganda: The first 100 years 1894-1995 by Phares Mukasa Mutibwa](https://books.google.co.ug/books/about/A_History_of_Uganda.html?id=snFunQAACAAJ&redir_esc=y)
+- [Introduction To Software Project Management by Adolfo Villafiorita](https://www.amazon.com/Introduction-Software-Project-Management-Villafiorita/dp/1466559535)
 
 ### CURRENTLY READING
 
-- [Introduction To Software Project Management by Adolfo Villafiorita](https://www.amazon.com/Introduction-Software-Project-Management-Villafiorita/dp/1466559535)
+
 - [Tim Cook: The Genius Who Took Apple to the Next by Leander Kahney](https://www.amazon.com/Tim-Cook-Genius-Apple-Level/dp/0525537600)
 - [Traction: A Startup Guide to Getting Customers by Gabriel Weinberg and Justin Mares](https://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609)
+- [MBA In A Day: What You Would Learn at Top Tier Business Schools(_If Only You Had Time_) by Steven Stralser, Ph.D](https://www.amazon.com/MBA-Day-Top-Tier-Business-Schools/dp/0471680540)
+- [The First 90 Days: Critical Success Strategies for New Leaders at all levels by Micheal Watkins](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105)
 
 ### WANT TO READ
-
+ 
 - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [The psychology of computer programming](https://geraldmweinberg.com/Site/Programming_Psychology.html)
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
@@ -129,7 +133,11 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Seven Databases in Seven Weeks by Luc Perkins with Eric Redmond and Jim R. Wilson](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
 - [The Design Of Everyday Things by Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 - [Don't Make Me Think:Revisted by Steve Krug](https://sensible.com/dont-make-me-think/)
-
+- [The Innovator's Dilemma by Clayton Christensen](https://www.amazon.com/The-Innovators-Dilemma-Technologies-Cause/dp/0875845851)
+- [The Toyota Production System: Beyond Large Scale Production by Taiichi Ohno](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143)
+- [Acceleration by John P. Kotter](https://www.amazon.com/Accelerate-Building-Strategic-Agility-Faster-Moving/dp/1625271743)
+- [Business Analysis.FourthEdition by Debra Paul and James Cadle.](https://www.amazon.com/Business-Analysis-Debra-Paul/dp/1780175108)
+- [The Innovator's Method: Bringing the Lean Startup Into Your Organisation by Nathan Furr and Jeff Dyer](https://www.amazon.com/Innovators-Method-Bringing-Start-up-Organization/dp/1625271468)
 
 ## COMMUNITY AND VOLUNTEER EXPERIENCE
 
@@ -141,14 +149,17 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 
 - English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
 
-## LETS CONNECT
+## LETS CONNECT & COLLABORATE
 
 - [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 - [GitHub](https://github.com/piusmwilson)
+- [Kaggle](https://www.kaggle.com/piusmwilson)
+- [Tableau Public](https://public.tableau.com/app/profile/piusmwilson/vizzes)
 - [X Platform](https://x.com/piusmwilson)
 - [Medium](https://piusmwilson.medium.com/)
 - [Dev Community](https://dev.to/piusmwilson)
 - [Substack](https://piusmwilson.substack.com/)
+
 
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
