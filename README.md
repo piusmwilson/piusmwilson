@@ -125,6 +125,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
  
 - [The Geek Way: The Radical Mindset That Drives Extraordinary Results by Andrew McAfee](https://www.amazon.com/Geek-Way-Radical-Transforming-Business/dp/0316436704)
 - [Going Corporate: A Geek's Guide by Shailendra Kadre](https://www.amazon.com/Going-Corporate-Geeks-Shailendra-Kadre/dp/1430237015)
+- [IT Project Management: A Geek's Guide to Leadership by Byron A. Love](https://www.amazon.com/Project-Management-Leadership-Practices-Portfolio/dp/1498736505)
 - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [The psychology of computer programming](https://geraldmweinberg.com/Site/Programming_Psychology.html)
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
