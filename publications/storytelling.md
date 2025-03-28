@@ -134,4 +134,4 @@ This Storytelling repository is a collection of Storytelling material researched
 
 ## Tags
 
-``Storytelling``, ``Social Studies``, ``World History``, ``African History``, ``African Oral Literature``, ``Folktales``, ``Folklore``, ``Oral Literature``, ``Mythology``, ``Ethical Storytelling``
+``Storytelling``, ``Social Studies``, ``World History``, ``African History``, ``African Oral Literature``, ``Folktales``, ``Folklore``, ``Oral Literature``, ``Mythology``, ``Ethical Storytelling``, ``Blogging``, ``Folktales``
