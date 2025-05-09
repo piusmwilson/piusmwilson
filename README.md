@@ -160,7 +160,6 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Tableau Public](https://public.tableau.com/app/profile/piusmwilson/vizzes)
 - [X Platform](https://x.com/piusmwilson)
 - [Medium](https://piusmwilson.medium.com/)
-- [Dev Community](https://dev.to/piusmwilson)
 - [Substack](https://piusmwilson.substack.com/)
 
 
