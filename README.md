@@ -68,12 +68,8 @@ I also make an effort where necessary to credit my sources by endeavouring to ad
 ## Where to Find all my Articles and also Reach me
 
 - [GitHub](https://github.com/piusmwilson)
-- [Medium](https://piusmwilson.medium.com/)
-- [Dev Community](https://dev.to/piusmwilson)
-- [Substack](https://piusmwilson.substack.com/)
-- [LinkedIn Newsletters](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7255002203449352192)
-- [X Platform](https://x.com/piusmwilson)
-- [Instagram](https://instagram.com/piusmwilson)
+- [A Tech Engineer's Notebook LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7255002203449352192)
+- [The Tech Engineer's NoteBook on Reddit](https://www.reddit.com/r/TechEngineersNoteBook/)
 
 ## LET'S TALK ABOUT BOOKS
 
