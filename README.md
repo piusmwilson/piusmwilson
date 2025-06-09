@@ -112,35 +112,24 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 - [Keeping Customers: And Getting their Friends too by Dorothy M.Tuma.](https://www.amazon.com/Keeping-Customers-Getting-Their-Friends/dp/197757873X)
 - [A HIstory Of Uganda: The first 100 years 1894-1995 by Phares Mukasa Mutibwa](https://books.google.co.ug/books/about/A_History_of_Uganda.html?id=snFunQAACAAJ&redir_esc=y)
 - [Introduction To Software Project Management by Adolfo Villafiorita](https://www.amazon.com/Introduction-Software-Project-Management-Villafiorita/dp/1466559535)
+- [Tim Cook: The Genius Who Took Apple to the Next by Leander Kahney](https://www.amazon.com/Tim-Cook-Genius-Apple-Level/dp/0525537600)
+- [MBA In A Day: What You Would Learn at Top Tier Business Schools(_If Only You Had Time_) by Steven Stralser, Ph.D](https://www.amazon.com/MBA-Day-Top-Tier-Business-Schools/dp/0471680540)
+- [The First 90 Days: Critical Success Strategies for New Leaders at all levels by Micheal Watkins](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105)
+- [Acceleration by John P. Kotter](https://www.amazon.com/Accelerate-Building-Strategic-Agility-Faster-Moving/dp/1625271743)
 
 ### CURRENTLY READING
 
-
-- [Tim Cook: The Genius Who Took Apple to the Next by Leander Kahney](https://www.amazon.com/Tim-Cook-Genius-Apple-Level/dp/0525537600)
-- [Traction: A Startup Guide to Getting Customers by Gabriel Weinberg and Justin Mares](https://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609)
-- [MBA In A Day: What You Would Learn at Top Tier Business Schools(_If Only You Had Time_) by Steven Stralser, Ph.D](https://www.amazon.com/MBA-Day-Top-Tier-Business-Schools/dp/0471680540)
-- [The First 90 Days: Critical Success Strategies for New Leaders at all levels by Micheal Watkins](https://www.amazon.com/First-90-Days-Critical-Strategies/dp/1591391105)
+- [The Toyota Production System: Beyond Large Scale Production by Taiichi Ohno](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143)
 
 ### WANT TO READ
- 
-- [The Geek Way: The Radical Mindset That Drives Extraordinary Results by Andrew McAfee](https://www.amazon.com/Geek-Way-Radical-Transforming-Business/dp/0316436704)
-- [Going Corporate: A Geek's Guide by Shailendra Kadre](https://www.amazon.com/Going-Corporate-Geeks-Shailendra-Kadre/dp/1430237015)
-- [IT Project Management: A Geek's Guide to Leadership by Byron A. Love](https://www.amazon.com/Project-Management-Leadership-Practices-Portfolio/dp/1498736505)
+
 - [Designing Data-Intensive Application](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [The psychology of computer programming](https://geraldmweinberg.com/Site/Programming_Psychology.html)
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [Site Reliability Engineering](https://sre.google/sre-book/introduction/)
-- [Extreme Programming Explained by Kent Beck](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
 - [The Software Engineering Guidebook](https://www.engguidebook.com/)
-- [The Product Book: How To Become a Great Product Manger by Josh Anon & Carlos Gonzalez Villaumbrosia](https://productschool.com/resources/ebooks/the-product-book)
 - [Seven Databases in Seven Weeks by Luc Perkins with Eric Redmond and Jim R. Wilson](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
-- [The Design Of Everyday Things by Donald A. Norman](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
-- [Don't Make Me Think:Revisted by Steve Krug](https://sensible.com/dont-make-me-think/)
-- [The Innovator's Dilemma by Clayton Christensen](https://www.amazon.com/The-Innovators-Dilemma-Technologies-Cause/dp/0875845851)
-- [The Toyota Production System: Beyond Large Scale Production by Taiichi Ohno](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143)
-- [Acceleration by John P. Kotter](https://www.amazon.com/Accelerate-Building-Strategic-Agility-Faster-Moving/dp/1625271743)
 - [Business Analysis.FourthEdition by Debra Paul and James Cadle.](https://www.amazon.com/Business-Analysis-Debra-Paul/dp/1780175108)
-- [The Innovator's Method: Bringing the Lean Startup Into Your Organisation by Nathan Furr and Jeff Dyer](https://www.amazon.com/Innovators-Method-Bringing-Start-up-Organization/dp/1625271468)
 
 ## COMMUNITY AND VOLUNTEER EXPERIENCE
 
@@ -156,12 +145,7 @@ Some of the Insightful Books that have informed & shaped my technical perspectiv
 
 - [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 - [GitHub](https://github.com/piusmwilson)
-- [Kaggle](https://www.kaggle.com/piusmwilson)
-- [Tableau Public](https://public.tableau.com/app/profile/piusmwilson/vizzes)
-- [X Platform](https://x.com/piusmwilson)
-- [Medium](https://piusmwilson.medium.com/)
-- [Substack](https://piusmwilson.substack.com/)
-
+- [Reddit](https://www.reddit.com/user/npiusmwilson/)
 
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
