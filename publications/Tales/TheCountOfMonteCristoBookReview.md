@@ -73,11 +73,11 @@ If you had to give Edmond advice at any point in the story, when would it be—a
 
 In the book, [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo), [Alexandre Dumas](https://www.biography.com/authors-writers/alexandre-dumas) crafts an unforgettable tale of injustice, transformation, and retribution, at the centre of which is Edmond Dantès, a bright, honourable and promising young sailor whose life is derailed by the envy and betrayal of those around him. Wrongly imprisoned, Edmond spends part of his 14 years in isolation—until he meets a wise fellow prisoner under whose guidance Dantes gains immense knowledge and learns of a hidden treasure originally owned by the Spada family.
 
-After escaping and claiming the treasure, Edmond reinvents himself as the mysterious, enigmatic and immensely wealthy Count of Monte Cristo reemerges into the modern society with new power and influence. 
+After escaping and claiming the treasure, Edmond reinvents himself as the mysterious, enigmatic and immensely wealthy Count of Monte Cristo reemerging into the modern society with new power and influence. 
 
-Initially he, intends on using his new identity, to meticulously plots revenge against those who ruined his life but as his plans unfold, Edmond discovers that vengeance not only harms the guilty but also the innocent—including himself, which leads him to begins to questioning the cost of vengeance—not just for his enemies, but for the innocents caught in the crossfire, and for his own soul.
+Initially he, intends on using his new identity, to meticulously plots revenge against those who ruined his life but as his plans unfold, Edmond discovers that vengeance doesn't only harms the guilty but also the innocent, including himself, which leads him to begins to questioning the cost of vengeance, not just for his enemies, but for the innocents caught in the crossfire, and for his own soul.
 
-Ultimately, Edmond Dantes learns how peace comes through forgiveness and not through revenge, as he decides to start over.
+Ultimately, Edmond Dantès learns how peace comes through forgiveness and not through revenge, as he decides to start over.
 
 Possibly and worth looking into is the fact that Dantès is likely based on the real story of [Pierre Picaud]( https://www.youtube.com/watch?v=tj-hhKzcJ2Y), a shoemaker falsely accused of treason who, once released from prison, embarked on a course of vengeance that spun wildly out of hand. Like his real counterpart, the fictional Dantès works to exact revenge on all those who have wronged him.
 
