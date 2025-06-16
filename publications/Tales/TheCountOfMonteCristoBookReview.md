@@ -30,7 +30,7 @@ Through out the book, we see this once naive young man navigates a world filled 
 
 [The Count of Monte Cristo]( https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo), is more than a tale of revenge—it's a journey through the deepest parts of the human spirit. Whether you're reading it for the first time or revisiting it after many years, it leaves you with timeless questions about love, justice, and what it really means to be free.
 
-## KEY THEMES WORTH EXPLORING
+## KEY THEMES FROM THE BOOK WORTH PONDERING
 
 ### Through Transformation and Identity; -
 We ponder how does Edmond's transformation reflect personal growth—or personal loss?
@@ -66,7 +66,8 @@ Imagine you where Edmond, between revenge or a new life, what would you have cho
 4.	Justice is not as easy as said and forgiveness is often harder than expected to be.
 5.	Hope is a powerful feeling that can survive even the darkest of circumstances when properly natured or well grounded.
 6.	True peace of mind often requires us to forgive even when it feels impossible.
-SOMETHING TO REFLECT ON 
+
+### SOMETHING TO REFLECT ON 
 If you had to give Edmond advice at any point in the story, when would it be—and what would you tell him?
 
 ### CONCLUSION
