@@ -65,7 +65,7 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 
 - [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
 - [GitHub](https://github.com/piusmwilson)
-- [Medium](https://piusmwilson.com/)
+- [X Platform](https://x.com/piusmwilson)
 
 <!--
 **piusmwilson/piusmwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
