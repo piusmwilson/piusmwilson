@@ -4,15 +4,9 @@
 
 ## ABOUT ME
 
-I’m a purpose-driven IT professional with over a decade of experience in the tech space, currently working as a Software Engineer. My passion lies at the intersection of technology, business problem-solving, and human-centered solutions.
+I’m a technically grounded problem solver with a background in information technology, currently working as a software engineer who balances good work ethics with sound technical experience to deliver impactful business technology solutions.
 
-With a strong foundation in Information Technology, systems thinking, and a growth mindset, I'm looking always looking for roles and opportunities that not only enable me but most importantly also challenge me towards being an effective technologist who can bridge strategic problem solving with impactful technical execution.
-
-Outside of work, I'm passionate about community outreach, storytelling, books, the business of sports, and meaningful conversations. My long-term vision is to become a well-rounded technology thought leader with a proven track record of delivering real-world impact.
-
-## SKILLS & TOOLS SUMMARY
-
-- _Problem Solving, Critical thinking, Decision making, IT service Management, Software Project Management, Software Implementation Management, Systems Administration, Database Administration, Version Control (Git), SQL(MySQL, MsSQL), HTML, CSS, PHP, JSON, Technical Writing (Markdown), NodeJS, Python Language,  Business Analysis, Data Analysis, Full-stack WordPress, Excel, Tableau, RStudio, UI/UX(Figma),  Cross-Technical team collaboration & Leadership, Technical Training & Mentoring, Quality Assurance, HRIS & HR Transformation, Design Thinking, PhotoShop, illustrator, Digital Marketing and Systems Thinking._
+As a person, who values productivity and meaningful networking, my long-term vision is to become a well-rounded technology thought leader with a proven track record of delivering impactful real-world business solutions.
 
 ## [WORK EXPERIENCE]((https://www.linkedin.com/in/piusmwilson/))
 
@@ -54,12 +48,6 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 ## LANGUAGES & PROFICIENCY
 
 - English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
-
-## COMMUNITY AND VOLUNTEER EXPERIENCE
-
-- Basketball Coaching, Player Development Training, Mentoring, and Sports Management.
-- Participated in various community outreach & capacity building initiatives under Rotary/Rotaract gaining Leadership and Community Projects experience.
-- Website Administration, Public relations, Social Media Administration & Magazine development for Rotary/Rotaract.
 
 ## LETS CONNECT & COLLABORATE
 
