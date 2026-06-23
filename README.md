@@ -39,15 +39,15 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 
 - Bachelor of Science, Information Technology at Uganda Martyrs University.
 
+## LANGUAGES & PROFICIENCY
+
+- English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
+
 ## COMMUNITY AND VOLUNTEER EXPERIENCE
 
 - Basketball Coaching, Player Development Training, Mentoring, and Sports Management.
 - Participated in various community outreach & capacity building initiatives under Rotary/Rotaract gaining Leadership and Community Projects experience.
 - Website Administration, Public relations, Social Media Administration & Magazine development for Rotary/Rotaract.
-
-## LANGUAGES & PROFICIENCY
-
-- English (spoken & written-fluent), Nkole (Spoken), Luganda (Spoken)
 
 ## LETS CONNECT & COLLABORATE
 
