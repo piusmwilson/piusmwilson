@@ -4,9 +4,9 @@
 
 ## ABOUT ME
 
-I’m a technically grounded problem solver with a background in information technology, currently working as a software engineer who balances good work ethics with sound technical experience to deliver impactful business technology solutions.
+I'm an business technology problem solver, currently working as a software engineer who balances good work ethics with sound technical experience to deliver impactful business technology solutions.
 
-As a person, who values productivity and meaningful networking, my long-term vision is to become a well-rounded technology thought leader with a proven track record of delivering impactful real-world business solutions.
+As a person, who values productivity and meaningful connections, my long-term vision is to become a well-rounded technology thought leader with a proven track record of delivering impactful real-world business solutions.
 
 ## [WORK EXPERIENCE]((https://www.linkedin.com/in/piusmwilson/))
 
