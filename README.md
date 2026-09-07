@@ -52,7 +52,7 @@ Software Implementation Project Consultant | Contract- (Aug 2021 - February 2024
 ## LETS CONNECT & COLLABORATE
 
 - [LinkedIn](https://www.linkedin.com/in/piusmwilson/)
-- [Medium](piusmwilson.medium.com)
+- [Medium](https://medium.com/@piusmwilson)
 - [X Platform](https://x.com/piusmwilson)
 
 <!--
